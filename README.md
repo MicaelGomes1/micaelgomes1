@@ -1,7 +1,7 @@
 ### Olá!! Sou o Micael Gomes 👋
 
 
-- 🔭 Estou aualmente a tira Licenciatura em Engenharia Eletrotécnica e de Computadores
+- 🔭 Estou aualmente a frequentar a Licenciatura em Engenharia Eletrotécnica e de Computadores
 - 🌱 Estou atualmente a aprender Python
 
 ##
